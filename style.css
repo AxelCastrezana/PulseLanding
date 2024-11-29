@@ -1,0 +1,129 @@
+
+.logo {
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+    padding-left: 25px;
+}
+
+#redefine{
+    width: 100%;
+    height: auto;
+}
+
+#redefine2{
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centers horizontally */
+
+}
+
+
+#glass{
+    backdrop-filter: blur(16px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(16px) saturate(180%) !important;
+    background-color: rgba(20, 21, 26, 0.75) !important;
+    padding-top: 20px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.15),
+    0px 10px 10px rgba(0, 0, 0, 0.1) !important;
+    justify-content: center !important;
+    z-index: 100;
+}
+
+body {
+    background-color: #14151A;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+#color{
+    background-color: #14151A !important;
+}
+
+#white{
+    color: rgba(255, 255, 255, 0.784);
+}
+
+#white:hover{
+    color: #D5FF5F !important;
+}
+
+#white2{
+    color: rgba(255, 255, 255, 0.784) !important;
+}
+
+#greenbutton{
+    background-color: #D5FF5F !important;
+    border-color: #D5FF5F !important;
+    color: #14151A !important;
+}
+
+#greenbutton2{
+    border-color: #D5FF5F !important;
+    color: #D5FF5F !important;
+    
+}
+#greenbutton2:hover {
+    background-color: #D5FF5F;
+    color: #14151A !important;
+}
+
+h1 {
+    font-weight: 900; /* Extra Bold */
+}
+
+p {
+    font-weight: 400; /* Regular */
+}
+
+span {
+    font-weight: 300; /* Light */
+}
+
+#purple{
+    background-color: #895FFF !important;
+}
+
+#move{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+#black{
+    background-color: #14151A !important;
+    border-color: #D5FF5F !important;
+}
+
+#black2{
+    background-color: #14151A !important;
+    border-color: #ffffff !important;
+}
+
+#basic{
+    color: #ffffff  ;
+}
+
+#green{
+    background-color: #D5FF5F !important;
+    border-color: #D5FF5F !important;
+    color: #14151A !important;
+}
+
+#purple1{
+    background-color: #895FFF !important;
+    border-color: #895FFF !important;
+}
+
+#purple2{
+    color: rgba(255, 255, 255, 0.784);
+}
+
+#purple2:hover{
+    color: #895FFF !important;
+}
